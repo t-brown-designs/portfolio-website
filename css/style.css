@@ -13,9 +13,12 @@ body {
 }
 
 header {
-  background-color: #B3C0A4;
+  background-color: #EAEFD3;
+  text-align: center;
   padding: 10px;
   margin: 10px;
+  box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.69);
+  position: relative;
 }
 
 h1, h2, h3, h4 {
@@ -109,5 +112,89 @@ a:focus {
 
 .row {
   margin: 25px 0; /* 25px top and bottom, 0 left and right */
-  padding: 25px;
+}
+
+#hero h1 {
+  text-align: center; /* Centers text */
+}
+
+.center {
+  text-align: center;
+}
+
+.logo {
+  max-width: 250px;
+}
+
+nav > ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav > ul > li {
+  display: inline-block;
+}
+
+nav > ul > li > a {
+  padding: 0 15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #4a4a4a;
+}
+
+nav > ul > li > a:hover {
+  color: #0000FF;
+  text-decoration: underline;
+  /* Underlining when hovering over a link */
+}
+
+nav > ul > li > a:visited {
+  /* visited link */
+  color: #27233A;
+}
+
+nav > ul > li > a:active {
+  /* selected link */
+  color: #B3C0A4;
+}
+
+#hero {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+}
+
+#hero h1 {
+  margin: 0;
+  padding: 0.67em 0;
+}
+main {
+  padding-top: 133px;
+}
+
+#story {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+
+#picture {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+
+.image {
+  max-width: 600px;
+}
+
+#plutopay {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
 }
