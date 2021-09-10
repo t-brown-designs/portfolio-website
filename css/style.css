@@ -62,7 +62,7 @@ a:hover {
 
 a:visited {
   /* visited link */
-  color: #27233A;
+  color: white;
 }
 
 a:active {
@@ -72,7 +72,7 @@ a:active {
 
 a:hover,
 a:focus {
-  color: #27233A;
+  color: #B3C0A4;
   text-decoration: underline;
 }
 
@@ -84,7 +84,7 @@ a:focus {
   padding: 10px;
   border-radius: 3px;
   border-bottom: 2px solid #B3C0A4;
-  transition-duration: 0.2s opacity;
+
   transition-property: opacity;
 }
 
@@ -162,6 +162,9 @@ a:focus {
 .logo {
   max-width: 250px;
 }
+.img-container {
+      text-align: center;
+    }
 
 nav > ul {
   list-style-type: none;
@@ -198,7 +201,7 @@ nav > ul > li > a:active {
   display: inline-block;
   width: 100%;
 }
-}
+
 
 #hero h1 {
   margin: 0;
@@ -209,6 +212,13 @@ main {
 }
 
 #story {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+
+#story1 {
   background-color: #EAEFD3;
   padding: 20px 0;
   display: inline-block;
@@ -227,6 +237,102 @@ main {
 }
 
 #plutopay {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay1 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay2 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay3 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay4 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay5 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay6 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay7 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay8 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay9 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay10 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay11 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay12 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay13 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay14 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay15 {
+  background-color: #EAEFD3;
+  padding: 20px 0;
+  display: inline-block;
+  width: 100%;
+}
+#plutopay16 {
   background-color: #EAEFD3;
   padding: 20px 0;
   display: inline-block;
